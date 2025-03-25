@@ -30,7 +30,9 @@ Use it to explore how small policy tweaks can **ripple** across generations, or 
    - Search for inflation + shock settings that maximize “bad economy index” but still keep all generations’ wealth positive, with minimal government cost.
 
 ---
-
+Use these files:
+** Open_Society_Simulator_V002.py
+** FOC_GA_V08.py
 ## Quick Start
 
 1. **Install dependencies**  
