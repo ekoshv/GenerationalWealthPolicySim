@@ -3,7 +3,8 @@
 A Python toolkit to simulate **multi‐generation wealth dynamics** under various economic policies.  
 It models **income**, **taxation**, **inflation**, **shocks**, **forced saving**, **UBC**, and more.  
 Use it to explore how small policy tweaks can **ripple** across generations, or to find **worst‐case** scenarios where the economy is harsh yet families still maintain positive wealth.
-
+![User Interface](GUI_01.png)
+![User Interface](GUI_02.png)
 ![Signle Person Life Cycle](single_person_life_cycle.png)
 ![Average Final Wealth for each Generatiopon ](average_final_wealth_gen.png)
 ---
