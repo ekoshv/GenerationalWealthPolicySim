@@ -32,8 +32,7 @@ Use it to explore how small policy tweaks can **ripple** across generations, or 
 
 ---
 Use these files:
-** Open_Society_Simulator_V002.py
-** FOC_GA_V08.py
+** GWP_V001.py
 ## Quick Start
 
 1. **Install dependencies**  
